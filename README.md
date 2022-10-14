@@ -11,4 +11,5 @@ __Hypothesis Testing__
 <img width="658" alt="image" src="https://user-images.githubusercontent.com/64684527/195772334-3f0b6762-1c87-425f-9d6f-58a6cdfa7e22.png">
 
 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢 𝚔𝚒𝚕𝚕𝚎𝚍 𝚝𝚑𝚎 𝚌𝚊𝚝, 𝚋𝚞𝚝 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚒𝚝 𝚋𝚊𝚌𝚔 ☄️
+
 Dataset used: https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data
