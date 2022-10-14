@@ -4,7 +4,9 @@ Curiosity killed the cat, but satisfaction brought it back ☄️
 
 Dataset used: https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data
 
-__Interactive Plotly Light Curves__
+__Interactive Plotly Light Curves!__
 
-https://user-images.githubusercontent.com/64684527/195768607-11602d16-35b3-427e-b0d8-3b67dab1fc5c.mp4
+https://user-images.githubusercontent.com/64684527/195769624-8c0f6092-0f00-4a2c-8908-5af8c3315e0f.mp4
+
+
 
