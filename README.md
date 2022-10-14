@@ -2,4 +2,4 @@
 
 Curiosity killed the cat, but satisfaction brought it back! ☄️
 
-Link to dataset used: https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data
+Dataset used: https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data
