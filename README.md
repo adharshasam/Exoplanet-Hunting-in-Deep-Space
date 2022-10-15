@@ -18,3 +18,4 @@ __PART 3: Time series forecasting using Facebook's Prophet model__
 
 https://user-images.githubusercontent.com/64684527/195986301-1d778d19-f057-4ab3-b7bd-ccab1fd6c88a.mp4
 
+https://user-images.githubusercontent.com/64684527/195988725-7818fb51-9ab6-406b-a72d-a3ebdcb8778a.mp4
