@@ -14,7 +14,7 @@ __PART 2: Hypothesis Testing using Welch's t-test__
 
 <img width="448" alt="image" src="https://user-images.githubusercontent.com/64684527/195773543-5a8c0aaa-6b37-45e8-aac6-0c5a5f091810.png">
 
-__PART 3: Time series forecasting using Facebook's Prophet model__
+__PART 3: Time Series Forecasting using Facebook's Prophet model__
 
 https://user-images.githubusercontent.com/64684527/195986301-1d778d19-f057-4ab3-b7bd-ccab1fd6c88a.mp4
 
