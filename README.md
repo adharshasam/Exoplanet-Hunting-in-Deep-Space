@@ -19,3 +19,7 @@ __PART 3: Time Series Forecasting using Facebook's Prophet model__
 https://user-images.githubusercontent.com/64684527/195986301-1d778d19-f057-4ab3-b7bd-ccab1fd6c88a.mp4
 
 https://user-images.githubusercontent.com/64684527/195988725-7818fb51-9ab6-406b-a72d-a3ebdcb8778a.mp4
+
+__PART 4: Classification of stars using MiniRocket classifier__
+
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/64684527/196043317-7cb4e1c9-f555-49c9-8d03-276e495d4e3f.png">
