@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/64684527/195988725-7818fb51-9ab6-406b-
 
 __PART 4: Classification of stars using MiniRocket classifier__
 
-![image](https://user-images.githubusercontent.com/64684527/196043690-e50d8752-9b8a-4760-ba21-739d9d664eb5.png)
+![image](https://user-images.githubusercontent.com/64684527/196043738-1ded2be0-832e-4b98-b8e4-7fc70d963b8f.png)
